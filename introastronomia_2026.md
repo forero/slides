@@ -5,3 +5,5 @@
 [Telescopios, Observatorios y Proyectos](https://docs.google.com/presentation/d/19B4VpMUQG7iGLjO1Ug-lTD5wJoj_P_EP4D3Sv5aO_aE/edit?usp=sharing)
 
 [Mecanica Celeste](https://docs.google.com/presentation/d/1zTDEUAIARM9qs3xjfBUvqmBaHWLhRs5pdkqyG8g_MMc/edit?usp=sharing)
+
+[Exoplanetas](https://docs.google.com/presentation/d/1wq-C-7rgU4ityQkRKEHMAxU1nnJhSVgmbIIvxnS5bUY/edit?usp=sharing)
