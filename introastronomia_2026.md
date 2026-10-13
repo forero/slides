@@ -7,3 +7,5 @@
 [Mecanica Celeste](https://docs.google.com/presentation/d/1zTDEUAIARM9qs3xjfBUvqmBaHWLhRs5pdkqyG8g_MMc/edit?usp=sharing)
 
 [Exoplanetas](https://docs.google.com/presentation/d/1wq-C-7rgU4ityQkRKEHMAxU1nnJhSVgmbIIvxnS5bUY/edit?usp=sharing)
+
+[Estrellas](https://docs.google.com/presentation/d/1WhJPb9gIc2gXcBJOvxlqaU9SIcYBRj8sCeTpsJgZlXE/edit?usp=sharing)
